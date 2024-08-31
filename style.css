@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin-top: 60px;
+   text-shadow: 30em;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-top: 80px;
+   text-shadow: 30em;
+}
+#start
+{
+    margin-left: 750px;
+     margin-top: 50px;
+    padding: 10px 40px;
+    font-size: 20px;
+    background-color: rgb(249, 186, 164);
+    border: 0;
+    
+}
+ #stop
+{
+    margin-top: 50px;
+    padding: 10px 40px;
+    font-size: 20px;
+    background-color: rgb(249, 186, 164);
+    border: 0;
+    
+} 
